@@ -1,0 +1,56 @@
+{
+  "order_to": "rezonn0",
+  "operator": {
+    "email": "relicstars.brand@gmail.com"
+  },
+  "delivery_note": "",
+  "delivery": [
+    {
+      "id": "pickup",
+      "label": "Встреча / самовывоз в Москве",
+      "price": 0,
+      "needs_address": false
+    },
+    {
+      "id": "cdek",
+      "label": "СДЭК",
+      "price": 500,
+      "needs_address": true
+    }
+  ],
+  "products": [
+    {
+      "id": "01",
+      "name": "Relic Signet",
+      "price": 2990,
+      "image": "img/ring_01.jpg",
+      "stock": {
+        "17": 5,
+        "18": 5,
+        "19": 5
+      }
+    },
+    {
+      "id": "04",
+      "name": "Superstar",
+      "price": 2990,
+      "image": "img/ring_04.jpg",
+      "stock": {
+        "17": 5,
+        "18": 5,
+        "19": 5
+      }
+    },
+    {
+      "id": "05",
+      "name": "Starfall",
+      "price": 3490,
+      "image": "img/ring_05.jpg",
+      "stock": {
+        "17": 5,
+        "18": 5,
+        "19": 5
+      }
+    }
+  ]
+}
